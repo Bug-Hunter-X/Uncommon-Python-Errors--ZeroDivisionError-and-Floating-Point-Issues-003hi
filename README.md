@@ -1,0 +1,3 @@
+This repository demonstrates two uncommon error scenarios that can arise in Python code.  The first involves a ZeroDivisionError that might not be immediately obvious despite an explicit check for zero. The second demonstrates potential unexpected behavior when using negative exponents with floating-point numbers.
+
+The `bug.py` file contains the buggy code. `bugSolution.py` offers improved error handling and safer computations.  The `README.md` provides explanations and considerations for these less-common but potentially disruptive errors.
